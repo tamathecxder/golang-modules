@@ -3,13 +3,13 @@ package main
 import (
 	"fmt"
 
-	"github.com/tamathecxder/randomail"
+	"github.com/tamathecxder/randomail/v2"
 )
 
 func main() {
-	privateDomain := "dev,id"
+	privateDomain := "dev.id"
 
-	testMail := randomail.GenerateRandomEmail()
+	testMail := randomail.GenerateRandomEmail(50)
 
 	emails := randomail.GenerateRandomEmails(10)
 
@@ -20,10 +20,10 @@ func main() {
 	}
 
 	fmt.Println("Private Email:", privateEmail)
+	fmt.Println("Test:", testMail)
 
 	for _, email := range emails {
 		fmt.Println("Generate Email:", email)
 	}
 
-	fmt.Println(testMail)
 }

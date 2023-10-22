@@ -2,3 +2,5 @@ github.com/tamathecxder/randomail v1.0.0 h1:tLpPoJrALp/eHWcg4xur6W+9jF+NNKbJT1EH
 github.com/tamathecxder/randomail v1.0.0/go.mod h1:jW54oVrX9WcLvFwvoSnKh+mdCwhQtTC4ZpuvgPbGP7U=
 github.com/tamathecxder/randomail v1.2.0 h1:NpGA4wO9x+lqiyyoi0gIwuvAXjgCPXUCsH/yq+lrxmM=
 github.com/tamathecxder/randomail v1.2.0/go.mod h1:jW54oVrX9WcLvFwvoSnKh+mdCwhQtTC4ZpuvgPbGP7U=
+github.com/tamathecxder/randomail/v2 v2.0.0 h1:f9tFDuAavOrZx+oiSEfebkAU/5ITcjx/eTuHCyH009Y=
+github.com/tamathecxder/randomail/v2 v2.0.0/go.mod h1:efiUKCRuWpaN5j6nrz++xCpTyyEm4FHhWUtSVTquf1w=
